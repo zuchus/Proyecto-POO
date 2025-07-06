@@ -1,10 +1,10 @@
 # 🚢 Batalla Naval 2.0
 
 Autores:  
+Nicolás Antonio Sánchez Bautista  
 Juan José Herrada Coronell  
 Andrés Felipe Sarmiento Martínez  
 Manuel Arturo Fajardo Contreras  
-Nicolás Antonio Sánchez Bautista  
 Santiago Mauricio Navarro Sánchez  
 
 Departamento de Ingeniería de Sistemas e Industrial  
