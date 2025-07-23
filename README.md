@@ -92,7 +92,25 @@ Permite modelar barcos, tableros y jugadores, logrando una estructura clara, mod
 - **HU-06:** Finalización automática al hundir toda la flota.
 
 ---
+## ✅ Historias de Usuario Implementadas (3ª entrega)
 
+- **HU - 01:** Ubicar barcos manualmente
+- **HU - 02:** Ver tablero del enemigo
+- **HU - 03:** Turnos extra por impacto
+- **HU - 04:** Notificación por hundir barco
+
+---
+## ✅ Historias de Usuario Implementadas (entrega final)
+- **HU - 01:** Menú al finalizar
+- **HU - 02:** Historial de partidas
+- **HU - 03:** Estadísticas principales
+- **HU - 04** Interfaz grafica
+- **HU - 05:** Dificultad CPU
+
+---
 ## 📐 Diagrama de clases UML
 
-*(El diagrama debe insertarse aquí como imagen, si está disponible)*
+![Diagrama UML](https://github.com/user-attachments/assets/720fcf44-ea49-4236-a2bc-5ee89ef6b296)
+
+
+
