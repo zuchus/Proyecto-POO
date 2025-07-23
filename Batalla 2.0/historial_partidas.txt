@@ -1,0 +1,14 @@
+Fecha: 2025-07-22 23:03:00
+Jugador: Andres
+Resultado: Perdió
+Turnos: 1
+Impactos: 0
+Porcentaje de aciertos: 0,00%
+---------------------------------------
+Fecha: 2025-07-22 23:03:47
+Jugador: Andres
+Resultado: Perdió
+Turnos: 1
+Impactos: 1
+Porcentaje de aciertos: 100,00%
+---------------------------------------
